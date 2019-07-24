@@ -1,7 +1,6 @@
 package de.rwth.swc.coffee4j.example;
 
 import de.rwth.swc.coffee4j.engine.generator.ipog.Ipog;
-import de.rwth.swc.coffee4j.engine.generator.negative.IpogNeg;
 import de.rwth.swc.coffee4j.junit.CombinatorialTest;
 import de.rwth.swc.coffee4j.junit.provider.configuration.generator.Generator;
 import de.rwth.swc.coffee4j.junit.provider.model.ModelFromMethod;
