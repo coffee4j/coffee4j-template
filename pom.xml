@@ -6,7 +6,7 @@
 
     <artifactId>coffee4j-example</artifactId>
     <groupId>de.rwth.swc.coffee4j</groupId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
 
     <packaging>jar</packaging>
 
