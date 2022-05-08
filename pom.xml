@@ -6,7 +6,7 @@
 
     <artifactId>coffee4j-example</artifactId>
     <groupId>de.rwth.swc.coffee4j</groupId>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
 
     <packaging>jar</packaging>
 
@@ -17,7 +17,7 @@
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <junit-platform.version>1.5.2</junit-platform.version>
-        <maven.compiler.release>9</maven.compiler.release>
+        <maven.compiler.release>11</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <slf4j.version>1.7.30</slf4j.version>
         <surefire-plugin.version>2.22.2</surefire-plugin.version>
